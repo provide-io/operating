@@ -4,7 +4,7 @@
 
 This notice serves as an expression of intention to form a dedicated team that will be responsible for driving the mission, values, vision, and viability, of a new democratically driven, cooperative-like, organization: **provide.io llc**.
 
-The core objective of the future provide.io team is to develop and execute strategies that will lead to a financially viable and self-sustaining organization within 13 months, as voted by the core leadership and development team.
+The core objective of the future provide.io team is to develop and execute strategies that will lead to models, and frameworks, that are testable, within 13 months, as voted by the core leadership and development team.
 
 The number of core leadership positions will be **extremely** - 5 to 9. There is a form at the bottom of this notice with a link to fill out out the **[provide.io Notice of Intention contact form](https://intent.provide.io/)**.
 
