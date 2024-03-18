@@ -1,12 +1,12 @@
 # provide.io: Notice of Intention
 
-**Version:** 2024.03.14.00
+**Version:** 2024.03.17.00
 
 This notice serves as an expression of intention to form a dedicated team that will be responsible for driving the mission, values, vision, and viability, of a new democratically driven, cooperative-like, organization: **provide.io llc**.
 
 The core objective of the future provide.io team is to develop and execute strategies that will lead to models, and frameworks, that are testable, within 13 months, as voted by the core leadership and development team.
 
-The number of core leadership positions will be **extremely** - 5 to 9. There is a form at the bottom of this notice with a link to fill out out the **[provide.io Notice of Intention contact form](https://intent.provide.io/)**.
+The number of core leadership positions will be **extremely limited** - 5 to 9 people. There is a form at the bottom of this notice with a link to fill out out the **[provide.io Notice of Intention contact form](https://intent.provide.io/)**.
 
 ## Roles and Responsibilities
 
@@ -24,9 +24,9 @@ The number of core leadership positions will be **extremely** - 5 to 9. There is
 
 7. **To Be Determined :** As the core leadership team is formed, this Notice of Intention is subject to change without any notice.
 
-The core team will consist of an odd-numbered of key stakeholders, and decision-makers within the organization, who will evaluate the progress and achievements of the assembled team at the 13-month mark. The number of core provide.io process and product architects must be odd so that there are never split votes.
+The core team will consist of an odd-number of key stakeholders, and decision-makers, within this organization, who will evaluate the progress and achievements of the assembled team at the 13-month mark. The number of core provide.io process and product architects *must* be odd so split votes can be avoided.
 
-When the team has formed, and our roles, responsibilities, compensations, etc., a vote will be held to determine whether the team has successfully achieved its objective of establishing a financially viable and self-sustaining organization.
+When the team has formed, and our roles, responsibilities, compensations, etc., have been agreed upon, a vote will be held to determine whether the team has successfully achieved its objective of establishing a financially viable and self-sustaining organization.
 
 **provide.io llc** is currently a sole-member LLC. However, the next major version of the Operating Agreement must define how provide.io's structure is democratically governed.
 
@@ -36,7 +36,7 @@ I, Tim, am dedicated to building a diverse, skilled, and driven team with a sens
 
 We invite (hopefully *you*) knowledgeable leaders with strong psychosocial, and socioemotional, skills to join us in this endeavor, contributing their expertise to the success of provide.io and the intent to build an Integrated Cooperative Network.
 
-Our core team will consist of *only 5 to 9 members*, meaning leadership positions will be **highly limited**. If you're curious, intrigued, excited, and any other synonyms, about developing networked cooperative systems, and shaping provide.io's structure and culture, then reach out now!
+Again, our core team will consist of *only 5 to 9 members*, meaning leadership positions will be **highly limited**. If you're curious, intrigued, excited, and any other synonyms, about developing networked cooperative systems, and shaping provide.io's structure and culture, then reach out now!
 
 Let's build something amazing!
 
@@ -48,8 +48,6 @@ Tim C Perkins
 
 provide.io / founder / owner member
 
-P.S. It's waaaaay more ambitious than just provide.io. These are gonna be interesting experiments when the Integrated Criteria Evaluation (ICE), and the Human Integration (HIP) models begin to get integrated.
+P.S. It's waaaaay more ambitious than just provide.io. These are gonna be interesting experiments when the Integrated Criteria Evaluation (ICE), and the Human Integration Potential (HIP) models/frameworks begin to get integrated.
 
-I'm excited.
-
-P.P.S. Until there's anyone other than me writing this stuff, then I reserve the right to update terms whenever I want. And by terms I mean spelling mistakes, probably.
+P.P.S. Until there's anyone other than me writing this stuff, then I reserve the right to update terms whenever I want. And by terms I mean spelling mistakes, probably. Yup. Spelling mistakes and grammar.

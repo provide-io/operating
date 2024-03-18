@@ -1,6 +1,6 @@
 # provide.io: Operating Agreement
 
-**Version:** 2024.03.14.00
+**Version:** 2024.03.17.00
 
 This Operating Agreement is version controlled, and any changes to the document will be tracked and recorded with signed commit messages. The version specified at the top of this document determines the active and voted-upon version of the agreement.
 
@@ -17,13 +17,13 @@ This Operating Agreement is version controlled, and any changes to the document 
 
 **Incubation Leadership Team Composition:** The Incubation Leadership Team shall consist of 5 to 9 members. The team will include roles such as Team Lead, Strategy and Planning Specialist, Financial Analyst, Marketing and Outreach Coordinator, Product Development and Management Expert, and Operations and HR Specialist.
 
-**Role Application and Interviews:** Roles within the ILT will be applied for and filled through an interview process. Tim Perkins, the initial member of provide.io, will be involved in all interviews and will be responsible for assembling the ILT.
+**Role Application and Interviews:** Roles within the ILT will be applied for, and filled, through an interview process. Tim Perkins, the initial member of provide.io, will be involved in all interviews, and will be participating in, and taking the lead for, assembling the ILT. The interviewing process will be subject to change as the ILT is put together. A vote will be taken to establish whether the initial ILT members feel comfortable with its strategy, and ability to perform to it, enough after forming that it is worth pursuing.
 
 **Decision Making:** The Incubation Leadership Team shall make decisions through a voting process, with an odd number of members to avoid split votes. Decisions shall be made in the best interest of provide.io and its objectives.
 
 **Leadership Votes:** Leadership votes may not be resold or transferred. If a team member abandons their vote, the remaining team members may discuss and solicit a replacement to represent the abandoned vote.
 
-**ICN Viability Vote:** Within 13 months, the Incubation Leadership Team must vote on whether the ICN strategy is viable and can be executed. A majority vote in favor of the ICN's viability is required for provide.io to continue developing and deploying the ICN.
+**ICN Viability Vote:** Within 13 months, the Incubation Leadership Team must vote on whether the ICN strategy is viable, and can be executed. A majority vote in favor of the ICN's viability is required for provide.io to continue developing and deploying the ICN.
 
 **Compensation:** Compensation for Incubation Leadership Team members shall be determined by the team and approved by a majority vote.
 
@@ -34,3 +34,5 @@ This Operating Agreement is version controlled, and any changes to the document 
 **Governing Law:** This Operating Agreement shall be governed by and construed in accordance with the laws of the state in which provide.io is formed.
 
 By expressing interest and joining the Incubation Leadership Team, each member agrees to be bound by the terms of this Operating Agreement.
+
+Even though it has more holes than swiss cheese. 🧀
