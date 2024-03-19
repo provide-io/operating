@@ -53,10 +53,6 @@ This versioning system offers several advantages over traditional amendment-base
 3. **Flexibility:** The versioning system allows for more frequent updates to the Operating Agreement, enabling the organization to adapt more quickly to changing circumstances or new information.
 4. **Easy comparison:** With each version of the document preserved, stakeholders can compare different versions side by side to understand the specific changes made in each iteration. This facilitates better decision-making and collaboration among stakeholders.
 
-## License
-
-All content in this repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license, unless otherwise specified. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions or need assistance, please contact us at [info@provide.io](mailto:info@provide.io).
